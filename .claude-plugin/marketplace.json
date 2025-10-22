@@ -1,0 +1,23 @@
+{
+  "$schema": "https://claude.ai/schemas/marketplace.json",
+  "name": "semicolon-marketplace",
+  "version": "0.1.0",
+  "description": "Interactive course marketplace for learning Claude Code through hands-on exercises",
+  "owner": {
+    "name": "Nasir Shadravan",
+    "email": "nasir@semicolon.io"
+  },
+  "plugins": [
+    {
+      "name": "claude-crash-course",
+      "description": "Fun, interactive crash course for learning Claude Code basics through hands-on exercises",
+      "source": "./plugins/claude-crash-course",
+      "version": "0.1.0",
+      "category": "education",
+      "author": {
+        "name": "Nasir Shadravan",
+        "email": "nasir@semicolon.io"
+      }
+    }
+  ]
+}

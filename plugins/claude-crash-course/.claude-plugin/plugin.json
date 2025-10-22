@@ -1,0 +1,9 @@
+{
+  "name": "claude-crash-course",
+  "description": "Fun, interactive crash course for learning Claude Code basics through hands-on exercises",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nasir Shadravan",
+    "email": "nasir@semicolon.io"
+  }
+}
