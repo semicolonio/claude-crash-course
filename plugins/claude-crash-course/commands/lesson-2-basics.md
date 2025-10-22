@@ -3,37 +3,19 @@ description: Lesson 1 - Basics
 allowed-tools: Bash(ls:*), Bash(pwd:*), Write(*)
 ---
 
-# Lesson 1: Basics
+# Lesson 1: Your First AI-Powered File
 
-Welcome! Let's learn the basics.
+Here's the secret about Claude Code: **just talk to me like a human.**
 
-## What is Claude Code?
+## Challenge: Create Your First File
 
-Claude Code is an AI assistant that lives in your terminal and helps you with coding tasks. You can ask questions, edit files, run commands, and more - all through natural conversation.
+Tell me to:
+> "Create a file called hello.txt that says Hello from Claude Code!"
 
-## Your First Exercise: Create a Hello World File
-
-Let's start simple. I'll help you create your first file using Claude Code.
-
-**Exercise:** Create a file called `hello.txt` in your working directory with the content "Hello from Claude Code!"
-
-### Steps:
-1. Ask me to create the file (try: "Create a file called hello.txt with Hello from Claude Code")
-2. After I create it, verify it exists by asking me to list files
-3. Ask me to read it back to confirm the content
-
-**Important:** Don't just run `/2-files` yet. Actually do the exercise above first! Practice conversation.
+Go ahead, try it now. Use your own words.
 
 ---
 
-## What You Learned
+**That's it.** No syntax. No commands to memorize. Just conversation.
 
-- Claude Code understands natural language
-- You can ask it to create files, read files, and run commands
-- It's conversational - you don't need to memorize specific commands
-
-When you've completed the exercise, continue:
-
-```
-/2-files
-```
+After you try it, type `/claude-crash-course:lesson-3-files` for Lesson 2.

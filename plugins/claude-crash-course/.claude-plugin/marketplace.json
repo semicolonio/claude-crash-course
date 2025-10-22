@@ -1,0 +1,25 @@
+{
+  "name": "claude-crash-course",
+  "owner": {
+    "name": "Nasir"
+  },
+  "metadata": {
+    "description": "Learn Claude Code in 60 minutes through hands-on projects",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-crash-course",
+      "description": "A fun, interactive crash course for learning Claude Code basics through practical exercises",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nasir"
+      },
+      "source": "./",
+      "category": "education",
+      "keywords": ["tutorial", "learning", "crash-course", "beginner", "interactive"],
+      "homepage": "https://github.com/yourusername/claude-crash-course",
+      "license": "MIT"
+    }
+  ]
+}

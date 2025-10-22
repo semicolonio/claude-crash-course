@@ -2,30 +2,33 @@
 description: Start the Claude Code interactive course
 ---
 
-# Welcome to Claude Crash Course!
-
-A fun, interactive crash course that teaches you Claude Code basics through hands-on exercises.
-
-## What You'll Learn
-
-**Lesson 1: Basics**
-- Understanding Claude Code
-- Your first conversation
-- Creating files naturally
-
-**Lesson 2: Files**
-- Reading files
-- Making edits
-- Building real things
-
-## Getting Started
-
-Let's begin! Run this command to start:
-
 ```
-/1-basics
+   ______ __                 __
+  / ____// /____ _ __  __ ____/ /___
+ / /    / // __ `// / / // __  // _ \
+/ /___ / // /_/ // /_/ // /_/ //  __/
+\____//_/ \__,_/ \__,_/ \__,_/ \___/
+
+   ______                   __
+  / ____/_____ ____ _ _____ / /_
+ / /    / ___// __ `// ___// __ \
+/ /___ / /   / /_/ /(__  )/ / / /
+\____//_/    \__,_//____//_/ /_/
+
+   ______
+  / ____/____   __  __ _____ _____ ___
+ / /    / __ \ / / / // ___// ___// _ \
+/ /___ / /_/ // /_/ // /   (__  )/  __/
+\____/ \____/ \__,_//_/   /____/ \___/
 ```
 
-Each lesson has exercises. You'll build real things as you learn!
+**Learn Claude Code in 10 minutes through hands-on exercises.**
 
-Ready to begin? Type `/1-basics` now.
+You're about to:
+- Create your first file with AI
+- Make real edits to code
+- Build something cool
+
+**No reading. Just doing.**
+
+Type `/claude-crash-course:lesson-2-basics` to start lesson 1.
