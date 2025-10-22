@@ -5,5 +5,16 @@
   "author": {
     "name": "Nasir Shadravan",
     "email": "nasir@semicolon.io"
+  },
+  "commands": {
+    "lesson-1-start": {
+      "description": "Lesson 1 - Start the Claude Code interactive course"
+    },
+    "lesson-2-basics": {
+      "description": "Lesson 2 - Basics"
+    },
+    "lesson-3-files": {
+      "description": "Lesson 3 - Files"
+    }
   }
 }

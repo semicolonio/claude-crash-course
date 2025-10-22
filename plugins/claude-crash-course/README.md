@@ -6,8 +6,9 @@ A fun, interactive crash course for learning Claude Code basics. Perfect for sem
 
 This course teaches you the fundamentals of Claude Code through practical exercises:
 
-- **Lesson 1:** Basics - Understanding Claude Code and creating your first file
-- **Lesson 2:** Files - Reading, editing, and creating files with natural language
+- **Lesson 1:** Start - Introduction to the Claude Code crash course
+- **Lesson 2:** Basics - Understanding Claude Code and creating your first file
+- **Lesson 3:** Files - Reading, editing, and creating files with natural language
 
 ## Installation
 
@@ -23,12 +24,12 @@ Install from the marketplace:
 Once installed, start the course:
 
 ```
-/start
+/claude-crash-course:lesson-1-start
 ```
 
 Then follow the lessons:
-- `/1-basics` - Basics
-- `/2-files` - Files
+- `/claude-crash-course:lesson-2-basics` - Basics
+- `/claude-crash-course:lesson-3-files` - Files
 
 ## Course Structure
 
@@ -37,9 +38,9 @@ claude-crash-course/
 ├── .claude-plugin/
 │   └── plugin.json          # Plugin metadata
 ├── commands/
-│   ├── start.md             # Course introduction
-│   ├── 1-basics.md          # Lesson 1: Basics
-│   └── 2-files.md           # Lesson 2: Files
+│   ├── lesson-1-start.md    # Lesson 1: Start
+│   ├── lesson-2-basics.md   # Lesson 2: Basics
+│   └── lesson-3-files.md    # Lesson 3: Files
 └── README.md                # This file
 ```
 
