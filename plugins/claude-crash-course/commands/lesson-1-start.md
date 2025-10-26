@@ -2,6 +2,8 @@
 description: Start the Claude Code interactive course
 ---
 
+# Welcome to Claude Code Crash Course!
+
 ```
    ______ __                 __
   / ____// /____ _ __  __ ____/ /___
@@ -22,9 +24,35 @@ description: Start the Claude Code interactive course
 \____/ \____/ \__,_//_/   /____/ \___/
 ```
 
-# Welcome to Claude Code Crash Course!
-
 You're about to learn how to code with an AI partner. This isn't like other AI tools - let me show you why.
+
+---
+
+## What You'll Learn in This Course
+
+By the end of this crash course, you'll know how to:
+
+**🎯 Core Skills:**
+- Work with Claude Code using natural language - no command memorization needed
+- Create, read, and edit files effortlessly
+- Run terminal commands through conversation
+- Manage context and work efficiently with large codebases
+
+**🛠️ Practical Projects:**
+- **Build Web Apps** - Create interactive HTML/CSS/JavaScript applications (todo lists, calculators, games)
+- **Data Analysis** - Fetch real data from APIs and create visualizations
+- **Media Processing** - Edit videos, compress files, create GIFs with FFmpeg
+- **Code Understanding** - Navigate and understand any codebase in minutes
+- **Git Automation** - Auto-generate commit messages and PR descriptions
+- **Debugging** - Identify and fix issues like a pro
+
+**⚡ Advanced Features:**
+- Create custom slash commands for your workflow
+- Use specialized agents for complex tasks
+- Connect external tools with MCP (Model Context Protocol)
+- Work with images, PDFs, and Jupyter notebooks
+
+**Each lesson = 10 minutes = something real you can use.**
 
 ---
 
@@ -97,21 +125,27 @@ D) All of the above
 
 ---
 
-## Step 5: What You'll Learn
+## Step 5: What You'll Actually Build
 
-Perfect! In this crash course, you'll learn to:
+Perfect! Here's what you'll create in this crash course:
 
-**Create & Edit Files** - Build files by just describing what you want
+**📊 Data Dashboard** - Fetch real data from the web and create interactive visualizations
 
-**Work with Code** - Read, understand, and modify existing projects
+**🌐 Web Apps** - Build working todo lists, calculators, or games
 
-**Automate Tasks** - Let me handle repetitive work
+**🎬 Media Processing** - Edit videos, compress files, create GIFs with FFmpeg
 
-**Debug Problems** - Find and fix issues faster
+**🔍 Code Analysis** - Understand any codebase in minutes
 
-**Build Projects** - Create real applications through conversation
+**⚙️ Git Automation** - Auto-generate commit messages and PR descriptions
 
-Each lesson is hands-on. You'll actually DO things, not just read about them.
+**🛠️ Custom Commands** - Create your own slash commands and workflows
+
+**🔌 Integrations** - Connect to external tools with MCP
+
+Plus: work with images, fetch web content, manage context, debug code, and more.
+
+**Each lesson = 10 minutes = something real you can use.**
 
 **Ready to create your first file?** Type "ready" or "let's do it"!
 
