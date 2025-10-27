@@ -151,7 +151,7 @@ Excellent! You now know:
 
 **Next up:** Debug code like a pro!
 
-Type `/claude-crash-course:lesson-9-prototype` when ready for Lesson 9.
+Type `/claude-crash-course:lesson-9-debug` when ready for Lesson 9.
 
 ---
 

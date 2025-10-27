@@ -156,7 +156,7 @@ Excellent! You now know:
 
 **Next up:** Understand any codebase quickly!
 
-Type `/claude-crash-course:lesson-8-debug` when ready for Lesson 8.
+Type `/claude-crash-course:lesson-8-codebase` when ready for Lesson 8.
 
 ---
 

@@ -65,6 +65,6 @@ Let's start with a simple bug.
 ✅ Quick fixes
 ✅ Testing solutions
 
-**Next:** Custom slash commands!
+**Next:** Build a complete prototype!
 
-Type `/claude-crash-course:lesson-10-commands` for Lesson 10.
+Type `/claude-crash-course:lesson-10-prototype` for Lesson 10.

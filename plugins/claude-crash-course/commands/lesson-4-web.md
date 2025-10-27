@@ -1,9 +1,9 @@
 ---
-description: Lesson 3 - Web Fetching & Content
+description: Lesson 4 - Web Fetching & Content
 allowed-tools: WebFetch(*), Write(*), Edit(*), Read(*)
 ---
 
-# Lesson 3: I Can Read the Web
+# Lesson 4: I Can Read the Web
 
 Here's a superpower - I can fetch and read any public webpage, then do something useful with it.
 
@@ -169,7 +169,7 @@ Excellent! You now know:
 
 **Next up:** Learn how to analyze data and create visualizations!
 
-Type `/claude-crash-course:lesson-4-data` when ready for Lesson 4.
+Type `/claude-crash-course:lesson-5-data` when ready for Lesson 5.
 
 ---
 

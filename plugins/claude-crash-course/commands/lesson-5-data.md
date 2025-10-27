@@ -1,9 +1,9 @@
 ---
-description: Lesson 4 - Data Analysis & Visualization
+description: Lesson 5 - Data Analysis & Visualization
 allowed-tools: WebFetch(*), Read(*), Write(*), Bash(open:*)
 ---
 
-# Lesson 4: Turn Data Into Insights
+# Lesson 5: Turn Data Into Insights
 
 Let's fetch real data from the web, analyze it, and create beautiful visualizations.
 
@@ -160,7 +160,7 @@ Excellent! You now know:
 
 **Next up:** Build real interactive web applications!
 
-Type `/claude-crash-course:lesson-5-content` when ready for Lesson 5.
+Type `/claude-crash-course:lesson-6-apps` when ready for Lesson 6.
 
 ---
 

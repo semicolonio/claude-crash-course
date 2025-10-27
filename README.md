@@ -4,7 +4,7 @@ A fun, interactive crash course for learning Claude Code basics. Perfect for sem
 
 ## What's Included
 
-- **claude-crash-course** - Interactive beginner tutorial with 2 lessons teaching Claude Code fundamentals
+- **claude-crash-course** - Interactive beginner tutorial with 13 lessons teaching Claude Code fundamentals (~70 minutes)
 
 ## Installation
 
@@ -30,18 +30,29 @@ Or if using from a GitHub repo:
 ### Step 3: Start Learning
 
 ```bash
-/start
+/claude-crash-course:lesson-1-start
 ```
 
-## Course Lessons
+## Course Overview (13 Lessons)
 
-- **Lesson 1 (`/1-basics`):** Learn Claude Code basics and create your first file
-- **Lesson 2 (`/2-files`):** Master reading, editing, and creating files
+### Phase 1: Foundation (Lessons 1-3)
+- Welcome, Context Management, Images
+
+### Phase 2: Content & Data (Lessons 4-7)
+- Web Fetching, Data Analysis, Interactive Apps, Media Processing
+
+### Phase 3: Developer Workflows (Lessons 8-10)
+- Codebase Exploration, Debugging, Prototypes
+
+### Phase 4: Extensibility (Lessons 11-13)
+- Custom Commands, Skills & Subagents, MCP Integrations
+
+**Status:** 12/13 lessons complete (92%) - Lesson 10 needs content
 
 ## Repository Structure
 
 ```
-course-claude-code/
+claude-crash-course/
 ├── .claude-plugin/
 │   └── marketplace.json       # Marketplace definition
 ├── plugins/
@@ -49,9 +60,10 @@ course-claude-code/
 │       ├── .claude-plugin/
 │       │   └── plugin.json
 │       ├── commands/
-│       │   ├── start.md
-│       │   ├── 1-basics.md
-│       │   └── 2-files.md
+│       │   ├── lesson-1-start.md      (13 lesson files)
+│       │   ├── lesson-2-basics.md
+│       │   └── ...
+│       ├── CURRICULUM.md      # Detailed curriculum
 │       └── README.md
 └── README.md                  # This file
 ```

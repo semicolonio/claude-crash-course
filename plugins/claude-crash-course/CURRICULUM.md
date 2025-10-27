@@ -21,93 +21,112 @@ Engineers and semi-technical people who want to:
 
 ## Phase 1: Foundation (Get Comfortable)
 
-### Lesson 1: Your First AI-Powered File
-**Command:** `/claude-crash-course:lesson-2-basics`
-**Learn:** Natural conversation with Claude Code
-**Build:** A simple text file
-**Time:** 2 minutes
+### Lesson 1: Welcome to Claude Code
+**Command:** `/claude-crash-course:lesson-1-start`
+**Learn:** Introduction to AI-assisted coding
+**Build:** Your first file with Claude
+**Time:** 5 minutes
+**Status:** ✅ Complete
 
-### Lesson 2: Real Power - Editing Files
-**Command:** `/claude-crash-course:lesson-3-files`
-**Learn:** Editing files and building HTML
-**Build:** A working todo list web page
-**Time:** 3 minutes
+### Lesson 2: Context Management
+**Command:** `/claude-crash-course:lesson-2-basics`
+**Learn:** @ symbol, /clear, and context windows
+**Build:** Practice with context management
+**Time:** 5 minutes
+**Status:** ✅ Complete
+
+### Lesson 3: Working with Images
+**Command:** `/claude-crash-course:lesson-3-images`
+**Learn:** Image analysis and UI recreation
+**Build:** Screenshot → HTML/CSS
+**Time:** 5 minutes
+**Status:** ✅ Complete
 
 ---
 
-## Phase 2: Practical Automation (Get Productive)
+## Phase 2: Content & Data (Get Productive)
 
-### Lesson 3: Automate Boring Stuff
-**Command:** `/claude-crash-course:lesson-3-automate`
-**Learn:** Batch operations and repetitive tasks
-**Build:** File organization system
+### Lesson 4: Web Fetching
+**Command:** `/claude-crash-course:lesson-4-web`
+**Learn:** Fetch and process web content
+**Build:** Article summarizer and content transformer
 **Time:** 5 minutes
+**Status:** ✅ Complete
 
-### Lesson 4: Work with Data
-**Command:** `/claude-crash-course:lesson-4-data`
-**Learn:** Data transformation and formatting
-**Build:** CSV to JSON converter + report
+### Lesson 5: Data Analysis
+**Command:** `/claude-crash-course:lesson-5-data`
+**Learn:** Data transformation and visualization
+**Build:** Interactive data dashboard
 **Time:** 5 minutes
+**Status:** ✅ Complete
 
-### Lesson 5: Content Repurposing
-**Command:** `/claude-crash-course:lesson-5-content`
-**Learn:** Working with text and markdown
-**Build:** Blog post → social media content
+### Lesson 6: Building Interactive Apps
+**Command:** `/claude-crash-course:lesson-6-apps`
+**Learn:** Build web apps through conversation
+**Build:** Todo app with localStorage
 **Time:** 5 minutes
+**Status:** ✅ Complete
 
-### Lesson 6: Video/Media Editing
-**Command:** `/claude-crash-course:lesson-6-media`
-**Learn:** Command execution with ffmpeg
-**Build:** Video trimmer/compressor
+### Lesson 7: Media Processing
+**Command:** `/claude-crash-course:lesson-7-media`
+**Learn:** FFmpeg for video/audio editing
+**Build:** Video compressor and format converter
 **Time:** 5 minutes
+**Status:** ✅ Complete
 
 ---
 
 ## Phase 3: Developer Workflows (Get Advanced)
 
-### Lesson 7: Understand Any Codebase
-**Command:** `/claude-crash-course:lesson-7-codebase`
-**Learn:** Code navigation and explanation
+### Lesson 8: Codebase Exploration
+**Command:** `/claude-crash-course:lesson-8-codebase`
+**Learn:** Navigate and understand any codebase
 **Build:** Explore open source project
 **Time:** 5 minutes
+**Status:** ✅ Complete
 
-### Lesson 8: Fix Bugs Fast
-**Command:** `/claude-crash-course:lesson-8-debug`
-**Learn:** Systematic debugging
-**Build:** Fix a broken app (provided)
+### Lesson 9: Debugging
+**Command:** `/claude-crash-course:lesson-9-debug`
+**Learn:** Systematic debugging approach
+**Build:** Fix bugs through conversation
 **Time:** 5 minutes
+**Status:** ✅ Complete
 
-### Lesson 9: Build a Prototype
-**Command:** `/claude-crash-course:lesson-9-prototype`
-**Learn:** Multi-file projects
-**Build:** Full web application
+### Lesson 10: Build a Prototype
+**Command:** `/claude-crash-course:lesson-10-prototype`
+**Learn:** Multi-file project development
+**Build:** Complete web application
 **Time:** 10 minutes
+**Status:** 🚧 Placeholder (needs content)
 
 ---
 
-## Phase 4: Superpowers (Get Creative)
+## Phase 4: Extensibility (Get Creative)
 
-### Lesson 10: Custom Commands
-**Command:** `/claude-crash-course:lesson-10-commands`
-**Learn:** Slash commands and reusable workflows
-**Build:** `/shipit` command (lint, test, commit, push)
+### Lesson 11: Custom Commands
+**Command:** `/claude-crash-course:lesson-11-commands`
+**Learn:** Create slash commands and workflows
+**Build:** `/shipit` command (commit, push, PR)
 **Time:** 5 minutes
+**Status:** ✅ Complete
 
-### Lesson 11: Subagents
-**Command:** `/claude-crash-course:lesson-11-subagents`
-**Learn:** Specialized AI assistants
-**Build:** Code documenter subagent
+### Lesson 12: Skills & Subagents
+**Command:** `/claude-crash-course:lesson-12-skills`
+**Learn:** Specialized AI capabilities
+**Build:** Understanding skills ecosystem
 **Time:** 5 minutes
+**Status:** ✅ Complete
 
-### Lesson 12: Connect Everything (MCP)
-**Command:** `/claude-crash-course:lesson-12-mcp`
-**Learn:** External integrations
-**Build:** GitHub integration (auto-create issues)
+### Lesson 13: MCP Integrations
+**Command:** `/claude-crash-course:lesson-13-mcp`
+**Learn:** Connect to databases, APIs, tools
+**Build:** Explore MCP integrations
 **Time:** 5 minutes
+**Status:** ✅ Complete
 
 ---
 
-## Total Course Time: ~60 minutes
+## Total Course Time: ~70 minutes (13 lessons)
 
 ## Getting Started
 
@@ -115,8 +134,13 @@ Run: `/claude-crash-course:lesson-1-start`
 
 ---
 
-## Course Status
+## Course Status Summary
 
-- ✅ Lesson 1: Complete
-- ✅ Lesson 2: Complete
-- 🚧 Lessons 3-12: Structure created, content pending
+**Complete:** 12 out of 13 lessons (92%)
+**Remaining:** Lesson 10 prototype content needs development
+
+### Completed Phases:
+- ✅ Phase 1: Foundation (Lessons 1-3)
+- ✅ Phase 2: Content & Data (Lessons 4-7)
+- 🔶 Phase 3: Developer Workflows (Lessons 8-10) - 2/3 complete
+- ✅ Phase 4: Extensibility (Lessons 11-13)

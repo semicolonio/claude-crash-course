@@ -1,9 +1,9 @@
 ---
-description: Lesson 5 - Building Interactive Apps
+description: Lesson 6 - Building Interactive Apps
 allowed-tools: Write(*), Edit(*), Read(*), Bash(open:*)
 ---
 
-# Lesson 5: Build Real Apps By Talking
+# Lesson 6: Build Real Apps By Talking
 
 Let's build a working web application. Just describe what you want - I'll handle the code.
 
@@ -175,9 +175,9 @@ Excellent! You now know:
 
 **This is probably the most powerful lesson so far.**
 
-**Next up:** Automate your git workflow!
+**Next up:** Learn media processing with FFmpeg!
 
-Type `/claude-crash-course:lesson-6-media` when ready for Lesson 6.
+Type `/claude-crash-course:lesson-7-media` when ready for Lesson 7.
 
 ---
 

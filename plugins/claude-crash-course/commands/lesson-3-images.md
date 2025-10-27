@@ -1,9 +1,9 @@
 ---
-description: Lesson 2 - Working with Images
+description: Lesson 3 - Working with Images
 allowed-tools: Read(*), Edit(*), Write(*), Bash(ls:*), Bash(open:*)
 ---
 
-# Lesson 2: I Can See Images
+# Lesson 3: I Can See Images
 
 Here's something cool - I'm not just text-based. I can actually see and understand images.
 
@@ -189,7 +189,7 @@ Excellent work! You now know:
 
 **Next up:** Learn how to fetch and work with web content!
 
-Type `/claude-crash-course:lesson-3-automate` when ready for Lesson 3.
+Type `/claude-crash-course:lesson-4-web` when ready for Lesson 4.
 
 ---
 

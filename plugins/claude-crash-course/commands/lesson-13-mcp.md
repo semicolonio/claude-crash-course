@@ -1,9 +1,9 @@
 ---
-description: Lesson 12 - MCP: Connect Everything
+description: Lesson 13 - MCP: Connect Everything
 allowed-tools: Read(*), Write(*), Edit(*), Bash(*), WebFetch(*)
 ---
 
-# Lesson 12: MCP - Supercharge Claude Code
+# Lesson 13: MCP - Supercharge Claude Code
 
 **Model Context Protocol (MCP)** - Connect Claude Code to databases, APIs, and external tools.
 
@@ -85,18 +85,18 @@ MCP is powerful but advanced.
 **Congratulations!** You've completed the Claude Code Crash Course!
 
 **You learned:**
-✅ Context management & @ references
-✅ Working with images
-✅ Web fetching & content transformation
-✅ Data analysis & visualization
-✅ Building interactive apps
-✅ Git workflow automation
-✅ Media processing with FFmpeg
-✅ Codebase exploration
-✅ Debugging like a pro
-✅ Custom slash commands
-✅ Skills & extensibility
-✅ MCP integrations
+✅ Context management & @ references (Lesson 2)
+✅ Working with images (Lesson 3)
+✅ Web fetching & content transformation (Lesson 4)
+✅ Data analysis & visualization (Lesson 5)
+✅ Building interactive apps (Lesson 6)
+✅ Media processing with FFmpeg (Lesson 7)
+✅ Codebase exploration (Lesson 8)
+✅ Debugging like a pro (Lesson 9)
+✅ Building complete prototypes (Lesson 10)
+✅ Custom slash commands (Lesson 11)
+✅ Skills & extensibility (Lesson 12)
+✅ MCP integrations (Lesson 13)
 
 **You're now equipped to:**
 - Build projects faster

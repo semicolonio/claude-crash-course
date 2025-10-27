@@ -1,9 +1,9 @@
 ---
-description: Lesson 11 - Skills & Advanced Features
+description: Lesson 12 - Skills & Advanced Features
 allowed-tools: Read(*), Write(*), WebFetch(*)
 ---
 
-# Lesson 11: Skills & Specialized Capabilities
+# Lesson 12: Skills & Specialized Capabilities
 
 Extend Claude Code with **Skills** - specialized AI capabilities for specific tasks.
 
@@ -72,4 +72,4 @@ Want to create your own skill?
 
 **Final lesson:** MCP - Connect everything!
 
-Type `/claude-crash-course:lesson-12-mcp` for Lesson 12.
+Type `/claude-crash-course:lesson-13-mcp` for Lesson 13.

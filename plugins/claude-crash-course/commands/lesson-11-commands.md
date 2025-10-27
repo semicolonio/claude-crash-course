@@ -1,9 +1,9 @@
 ---
-description: Lesson 10 - Slash Commands & Plugins
+description: Lesson 11 - Slash Commands & Plugins
 allowed-tools: Read(*), Write(*), Edit(*), Glob(*)
 ---
 
-# Lesson 10: Custom Workflows with Slash Commands
+# Lesson 11: Custom Workflows with Slash Commands
 
 Create your own `/shipit`, `/test`, `/deploy` commands - reusable workflows triggered with a slash.
 
@@ -63,4 +63,4 @@ Check the marketplace: https://docs.claude.com/en/docs/claude-code/plugins
 
 **Next:** Skills & advanced extensibility!
 
-Type `/claude-crash-course:lesson-11-subagents` for Lesson 11.
+Type `/claude-crash-course:lesson-12-skills` for Lesson 12.
